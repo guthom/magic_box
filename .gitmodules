@@ -1,0 +1,6 @@
+[submodule "pysrc/thirdparty/apriltag-imgs"]
+	path = pysrc/thirdparty/apriltag-imgs
+	url = https://github.com/AprilRobotics/apriltag-imgs
+[submodule "pysrc/thirdparty/e-Paper"]
+	path = pysrc/thirdparty/e-Paper
+	url = https://github.com/waveshare/e-Paper
