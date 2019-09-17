@@ -7,7 +7,7 @@ The box offers a fully basic ROS-based infrastructure to dynamically change a ta
 ### Prerequisites 
 
 * Python 2.7 (current max Version for ROS)
-* Basic installation of ROS https://www.ros.org/
+* Basic installation of ROS https://www.ros.org/ 
 * wiringPi http://wiringpi.com/
 * Waveshare e-Paper https://github.com/waveshare/e-Paper
 * Pillow  https://pillow.readthedocs.io/en/stable/
@@ -18,7 +18,7 @@ For the magic box itself you will need a RaspberryPi® or a RaspberryPi-Zero®.
 We used a [Waveshare](https://www.waveshare.com/) epd4in2 display and the 
 [E-Paper Driver HAT](https://www.waveshare.com/wiki/E-Paper_Driver_HAT). 
 If you want to use relative displays, it should be enough to change the import in pysrc/magic_box/display/EInkDisplay.py.
-
+If you use a similar display to ours, make sure all [needed libraries](https://www.waveshare.com/wiki/Pioneer600#Libraries_Installation_for_RPi) are installed.
 However, we will not provide any crafting tutorials because it should be straight forward.
 
 

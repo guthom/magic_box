@@ -1,6 +1,6 @@
 nodeName = "magic_box"
 baseTopicName = "MagicBoxes/"
-aprilTagPath = "data/apriltags/"
+aprilTagPath = "thirdparty/apriltag-imgs/"
 aprilTagRawName = "tag36_11_"
 serviceSubTopic = "/Service/"
 masterTopic = "magic_box_master/"
