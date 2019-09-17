@@ -1,0 +1,7 @@
+<launch>
+
+  <arg name="boxname" default="box_$(env ROS_IP)"/>
+    <node name="magic_box_client_$(env ROS_IP)" pkg="magic_box" type="magic_box_client" output="screen">
+        <param name="boxName" type="string" value="$(arg boxname)" />
+    </node>
+</launch>

@@ -1,0 +1,20 @@
+#!/usr/bin/python
+import os, sys
+
+projectDir = os.path.join(os.path.dirname(__file__), "../pysrc/")
+sys.path.append(projectDir)
+sys.path.append(os.path.join(projectDir, "magic_box/"))
+
+from nodes.MagicBoxMaster import MagicBoxMaster
+
+import rospy
+
+if __name__ == '__main__':
+    try:
+        MagicBoxMaster = MagicBoxMaster()
+
+        MagicBoxMaster.node()
+
+
+    except rospy.ROSInterruptException:
+        pass

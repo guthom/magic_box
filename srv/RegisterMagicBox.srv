@@ -1,0 +1,4 @@
+string boxName
+string baseTopic
+---
+bool success

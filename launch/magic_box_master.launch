@@ -1,0 +1,5 @@
+<launch>
+    <node name="magic_box_master" pkg="magic_box" type="magic_box_master" output="screen">
+
+    </node>
+</launch>
