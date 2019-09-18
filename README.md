@@ -1,5 +1,5 @@
 # MagicBox
-This repository contains the source for the magic_box prototype as seen in the following image.
+This repository contains the source for the magic_box prototype as seen in the following gif.
 The box offers a fully basic ROS-based infrastructure to dynamically change a tag displayed on an e-inkDisplay.
 
 ![Example of a crafted box](magic_box.gif)
@@ -34,7 +34,7 @@ ROS-Environments of the boxs hardware and the master-system.
 
 ## Usage
 Install ros on the box controller which should be a RaspberryPi® or a RaspberryPi-Zero®.
-Both nodes should run on different system, but its also possible to run both on the box hardware.
+Both nodes should run on different systems, but its also possible to run both on the box hardware.
 The ros package primarily contains two different nodes:
 
 * **magic_box_master**
@@ -97,7 +97,7 @@ We eddited the .bashrc file and included the following line after the ros-worksp
     export ROS_HOSTNAME=$ROS_IP  
     export ROS_MASTER_URI=http://ROS_MASTER_IP:11311
 ```
-The script to extract the ROS_IP accesses a network module. If you do not usw wlan0 
+The script to extract the ROS_IP accesses a network module. If you do not use wlan0 
 as the targeted hardware module you have to adjust that as well.
 
 **Don't forget to set the ROS_MASTER_IP to the IP of the ros_core master.**
