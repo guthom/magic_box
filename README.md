@@ -11,7 +11,7 @@ The box offers a fully basic ROS-based infrastructure to dynamically change a ta
 * wiringPi http://wiringpi.com/
 * Waveshare e-Paper https://github.com/waveshare/e-Paper
 * Pillow  https://pillow.readthedocs.io/en/stable/
-* Numpy
+* Numpy https://numpy.org/
 
 ### Hardware 
 For the magic box itself you will need a RaspberryPi® or a RaspberryPi-Zero®.
@@ -110,6 +110,7 @@ This work uses parts from:
 * **wiringPi** http://wiringpi.com/
 * **Waveshare e-Paper** https://github.com/waveshare/e-Paper
 * **Pillow** https://pillow.readthedocs.io/en/stable/
+* **Numpy** https://numpy.org/
 
 **Thanks to ALL the people who contributed to the projects!**
 
