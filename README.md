@@ -115,7 +115,7 @@ This work uses parts from:
 
 ## Authors
 * [**Thomas Gulde**](https://github.com/guthom) - [*Cognitive Systems Research Group*](https://cogsys.reutlingen-university.de/) - Reutlingen-University 
-* [**Vinu Vijayakumaran Nair**](https://github.com/) - [*ESB Logistics Learning Factory*](https://www.esb-business-school.de/forschung/wertschoepfungs-und-logistiksysteme/forschungsinfrastruktur/logistik-lernfabrik/) - Reutlingen-University
+* [**Vinu Vijayakumaran Nair**]( https://github.com/uservinu) - [*ESB Logistics Learning Factory*](https://www.esb-business-school.de/forschung/wertschoepfungs-und-logistiksysteme/forschungsinfrastruktur/logistik-lernfabrik/) - Reutlingen-University
 * [**Jan Schuhmacher**](https://github.com/janschuhmacher) - [*ESB Logistics Learning Factory*](https://www.esb-business-school.de/forschung/wertschoepfungs-und-logistiksysteme/forschungsinfrastruktur/logistik-lernfabrik/) - Reutlingen-University
 
 ## License
