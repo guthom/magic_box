@@ -2,7 +2,7 @@
 This repository contains the source for the magic_box prototype as seen in the following image.
 The box offers a fully basic ROS-based infrastructure to dynamically change a tag displayed on an e-inkDisplay.
 
-![Example of a crafted box](magic_box.png)
+![Example of a crafted box](magic_box.gif)
 
 ### Prerequisites 
 
